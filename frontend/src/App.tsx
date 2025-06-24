@@ -1,9 +1,9 @@
-import Coders from './components/coders'
+import MediaTable from './components/media-table'
 
 function App() {
   return (
     <div className='app'>
-      <Coders />
+      <MediaTable />
     </div>
   )
 }
